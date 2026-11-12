@@ -68,6 +68,7 @@ public class Main extends Application {
         Scene scene = new Scene(root, 400, 400);
         primaryStage.setScene(scene);
         primaryStage.show();
+        System.out.println("test");
     }
 
 //    private void updateNumberDisplay() {
