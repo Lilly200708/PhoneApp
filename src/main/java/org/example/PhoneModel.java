@@ -34,6 +34,7 @@ public class PhoneModel implements ITelephone{
             System.out.println(LocalTime.now()+" ... Error");
 
             System.out.println("test");
+            System.out.println("new feature");
         }
         return duration;
     }
